@@ -1,0 +1,69 @@
+I cannot take this order,negative,
+I am out of stock,negative,
+It is not possible to service the order right now,negative,
+Sorry I am running full,negative,
+No cook available to make the order,negative,
+No can not take the order,negative,
+Order is declined,negative,
+Closed,negative,
+Negative,negative,
+It cannot be made,negative,
+No,negative,
+Not open ,negative,
+Out of service,negative,
+No orders for next two hours,negative,
+Unable to provide the food,negative,
+Cannot provide any food,negative,
+Ok,positive,
+Yes,positive,
+The order is accepted,positive,
+I will service the order,positive,
+I will take the order,positive,
+Order being prepared,positive,
+Starting with your order,positive,
+Will take the order,positive,
+Love to make the order,positive,
+I am okay with the order,positive
+Beyond working hours,negative
+Too late at night,negative
+Restaurant temporary closed due to emergency,negative
+emergency,negative
+closed today,negative
+cannot service order,negative
+too many orders pending not possible to service,negative
+preparations started,positive
+ready to prepare order,positive
+preparing,positive
+okay will do,positive
+yeah,positive
+will serve,positive
+open,positive
+bring it on,positive
+i am ready to make the food,positive
+food will be ready,positive
+food will be served,positive
+cannot make food,negative
+no raw materials,negative
+out of staff,negative
+refused,negative
+roger that,positive
+request is rejected,negative
+request is approved,positive
+happy to help,positive
+sorry,negative
+not now,negative
+refused,negative
+order taking closed,negative
+Restaurant is full,negative
+will not take the order,negative
+will not serve,negative
+no service,negative
+service denied,negative
+denied,negative
+no service available,negative
+service is unavailable,negative
+this is not correct time,negative
+food not available,negative
+will serve,positive
+service accepted,positive
+food is accepted,positive
